@@ -5,7 +5,7 @@ The trained model files used in this project are available [here](https://drive.
 > Note: file is too big hence uploaded on drive
 
 
-### Hair Detection App
+
 
 - To run the GUI, use the following file:  
   **`hair-detection/main/app.py`**
