@@ -14,3 +14,4 @@ The trained model files used in this project are available [here](https://drive.
 This app currently uses an **older version of the trained model**, so predictions may not be highly accurate.  
 The **newer and more accurate model** has a large file size and cannot be pushed to GitHub.  
 👉 You can download the latest trained model from the link provided in this README.
+<img width="1180" height="591" alt="image" src="https://github.com/user-attachments/assets/9eea973c-320c-44d9-a540-1b4ae1bcb51b" />
